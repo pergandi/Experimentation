@@ -1,0 +1,2 @@
+MouseVelocity	0.05
+EndChrono	3

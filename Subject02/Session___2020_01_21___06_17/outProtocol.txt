@@ -1,0 +1,8 @@
+startIndex	0
+blockSize	1
+replayFailedTrialType	2
+Target_pos_z	Target_color
+0.3	red
+0.25	green
+0.2	red
+0.35	green
